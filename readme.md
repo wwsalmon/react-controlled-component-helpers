@@ -11,7 +11,7 @@ Instead of:
 Use this:
 
 ```tsx
-import {getInputStateProps} from "./index";
+import {getInputStateProps} from "react-controlled-component-helpers";
 
 <input {...getInputStateProps(state, setState)}/>
 ```
