@@ -1,0 +1,21 @@
+{
+  "name": "react-controlled-component-helpers",
+  "version": "0.1.0",
+  "description": "Helper functions for controlled react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.ts"
+  },
+  "author": "Samson Zhang",
+  "license": "ISC",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
