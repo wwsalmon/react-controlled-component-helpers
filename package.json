@@ -1,6 +1,6 @@
 {
   "name": "react-controlled-component-helpers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Helper functions for controlled react components",
   "main": "index.js",
   "scripts": {
